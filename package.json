@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/luxplanjay/webpack-starter-kit/issues"
   },
-  "homepage": "https://vadimm-fullstack.github.io/goit-js-hw-10-food-service",
+  "homepage": "https://github.com/VadimM-FullStack/goit-js-hw-10-food-service",
   "devDependencies": {
     "@babel/cli": "^7.12.17",
     "@babel/core": "^7.12.17",
